@@ -1,1 +1,1 @@
-# loan-approval-predictions
+# ml_mimi_projects
